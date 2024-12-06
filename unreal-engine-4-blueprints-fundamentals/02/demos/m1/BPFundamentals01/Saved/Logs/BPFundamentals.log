@@ -1,0 +1,355 @@
+﻿Log file open, 12/06/24 13:49:38
+LogInit:Display: Running engine for game: BPFundamentals
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1505388868) SRandInit(-1505388868).
+LogTaskGraph: Started task graph with 5 named threads and 12 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.152423
+LogPluginManager: Loaded Plugin Paper2D, From F:/Unreal/UE_4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From F:/Unreal/UE_4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From F:/Unreal/UE_4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From F:/Unreal/UE_4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From F:/Unreal/UE_4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From F:/Unreal/UE_4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From F:/Unreal/UE_4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From F:/Unreal/UE_4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From F:/Unreal/UE_4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From F:/Unreal/UE_4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From F:/Unreal/UE_4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From F:/Unreal/UE_4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From F:/Unreal/UE_4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From F:/Unreal/UE_4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From F:/Unreal/UE_4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From F:/Unreal/UE_4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From F:/Unreal/UE_4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From F:/Unreal/UE_4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From F:/Unreal/UE_4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From F:/Unreal/UE_4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From F:/Unreal/UE_4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From F:/Unreal/UE_4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From F:/Unreal/UE_4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From F:/Unreal/UE_4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From F:/Unreal/UE_4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From F:/Unreal/UE_4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From F:/Unreal/UE_4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From F:/Unreal/UE_4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From F:/Unreal/UE_4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From F:/Unreal/UE_4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From F:/Unreal/UE_4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From F:/Unreal/UE_4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From F:/Unreal/UE_4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From F:/Unreal/UE_4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From F:/Unreal/UE_4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From F:/Unreal/UE_4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From F:/Unreal/UE_4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From F:/Unreal/UE_4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From F:/Unreal/UE_4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From F:/Unreal/UE_4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From F:/Unreal/UE_4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From F:/Unreal/UE_4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From F:/Unreal/UE_4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From F:/Unreal/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From F:/Unreal/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From F:/Unreal/UE_4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From F:/Unreal/UE_4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From F:/Unreal/UE_4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From F:/Unreal/UE_4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From F:/Unreal/UE_4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From F:/Unreal/UE_4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From F:/Unreal/UE_4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From F:/Unreal/UE_4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From F:/Unreal/UE_4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From F:/Unreal/UE_4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From F:/Unreal/UE_4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From F:/Unreal/UE_4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From F:/Unreal/UE_4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From F:/Unreal/UE_4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From F:/Unreal/UE_4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From F:/Unreal/UE_4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From F:/Unreal/UE_4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: F:/Unreal/UE_4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2024.12.06-19.49.38:296][  0]LogInit: Selected Device Profile: [Windows]
+[2024.12.06-19.49.38:296][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.12.06-19.49.38:302][  0]LogInit: Computer: DESKTOP-K2FQPUK
+[2024.12.06-19.49.38:302][  0]LogInit: User: fyrex
+[2024.12.06-19.49.38:302][  0]LogInit: CPU Page size=65536, Cores=8
+[2024.12.06-19.49.38:302][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.12.06-19.49.38:302][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2024.12.06-19.49.38:302][  0]LogMemory: Platform Memory Stats for Windows
+[2024.12.06-19.49.38:302][  0]LogMemory: Process Physical Memory: 268.97 MB used, 268.98 MB peak
+[2024.12.06-19.49.38:302][  0]LogMemory: Process Virtual Memory: 266.41 MB used, 266.41 MB peak
+[2024.12.06-19.49.38:302][  0]LogMemory: Physical Memory: 15265.26 MB used,  17303.91 MB free, 32569.16 MB total
+[2024.12.06-19.49.38:302][  0]LogMemory: Virtual Memory: 4805.07 MB used,  17303.91 MB free, 134217728.00 MB total
+[2024.12.06-19.49.38:621][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2024.12.06-19.49.39:088][  0]LogD3D11RHI: D3D11 adapters:
+[2024.12.06-19.49.39:214][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2024.12.06-19.49.39:214][  0]LogD3D11RHI:       7989/0/16284 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2024.12.06-19.49.39:218][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.12.06-19.49.39:218][  0]LogD3D11RHI:       0/0/16284 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.12.06-19.49.39:218][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.12.06-19.49.39:225][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.12.06-19.49.39:225][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2024.12.06-19.49.39:225][  0]LogWindows: EnumDisplayDevices:
+[2024.12.06-19.49.39:225][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2024.12.06-19.49.39:226][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2024.12.06-19.49.39:226][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2024.12.06-19.49.39:226][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2024.12.06-19.49.39:226][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2024.12.06-19.49.39:226][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2024.12.06-19.49.39:226][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2024.12.06-19.49.39:226][  0]LogD3D11RHI:      Driver Date: Unknown
+[2024.12.06-19.49.39:226][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2024.12.06-19.49.39:314][  0]LogD3D11RHI: Async texture creation enabled
+[2024.12.06-19.49.39:342][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2024.12.06-19.49.39:342][  0]LogShaderCompilers: Guid format shader working directory is -99 characters bigger than the processId version (../../../../../Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/unreal-engine-4-blueprints-fundamentals/02/demos/m1/BPFundamentals01/Intermediate/Shaders/WorkingDirectory/18740/).
+[2024.12.06-19.49.39:343][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fyrex/AppData/Local/Temp/UnrealShaderWorkingDir/FB8D833F4B81288F4F113AB52A29AA2D/'.
+[2024.12.06-19.49.39:343][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2024.12.06-19.49.40:176][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2024.12.06-19.49.40:217][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2024.12.06-19.49.40:256][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2024.12.06-19.49.40:298][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2024.12.06-19.49.40:338][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2024.12.06-19.49.40:377][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2024.12.06-19.49.40:414][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2024.12.06-19.49.40:452][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2024.12.06-19.49.40:486][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2024.12.06-19.49.40:524][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2024.12.06-19.49.40:562][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2024.12.06-19.49.40:601][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2024.12.06-19.49.40:638][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2024.12.06-19.49.40:678][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2024.12.06-19.49.40:717][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2024.12.06-19.49.40:793][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2024.12.06-19.49.40:793][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2024.12.06-19.49.40:820][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2024.12.06-19.49.40:884][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2024.12.06-19.49.40:909][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2024.12.06-19.49.40:947][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2024.12.06-19.49.40:987][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2024.12.06-19.49.41:023][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2024.12.06-19.49.41:063][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2024.12.06-19.49.41:063][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2024.12.06-19.49.41:344][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2024.12.06-19.49.41:391][  0]LogDerivedDataCache: Loaded boot cache 0.05s 64MB C:/Users/fyrex/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2024.12.06-19.49.41:391][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/fyrex/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2024.12.06-19.49.41:391][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/unreal-engine-4-blueprints-fundamentals/02/demos/m1/BPFundamentals01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.12.06-19.49.41:391][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.12.06-19.49.41:391][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/unreal-engine-4-blueprints-fundamentals/02/demos/m1/BPFundamentals01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.12.06-19.49.41:391][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.12.06-19.49.41:401][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.12.06-19.49.41:414][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fyrex/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.12.06-19.49.41:561][  0]LogInit: Selected Device Profile: [Windows]
+[2024.12.06-19.49.41:563][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2024.12.06-19.49.41:710][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.12.06-19.49.41:741][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2024.12.06-19.49.41:773][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2024.12.06-19.49.41:773][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2024.12.06-19.49.41:773][  0]LogMeshUtilities: No automatic mesh merging module available
+[2024.12.06-19.49.42:143][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: bpfundamentals, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2115558515
+[2024.12.06-19.49.42:189][  0]LogAssetRegistry: FAssetRegistry took 0.0216 seconds to start up
+[2024.12.06-19.49.42:221][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.016908 seconds
+[2024.12.06-19.49.42:225][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2024.12.06-19.49.42:225][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2024.12.06-19.49.42:225][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.12.06-19.49.42:269][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2024.12.06-19.49.42:851][  0]LogSlate: Using Freetype 2.6.0
+[2024.12.06-19.49.42:851][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.12.06-19.49.42:851][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.12.06-19.49.43:488][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.12.06-19.49.43:519][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.12.06-19.49.43:747][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2024.12.06-19.49.44:024][  0]SourceControl: Info Source control is disabled
+[2024.12.06-19.49.44:026][  0]SourceControl: Info Source control is disabled
+[2024.12.06-19.49.44:061][  0]SourceControl: Info Source control is disabled
+[2024.12.06-19.49.44:095][  0]SourceControl: Info Source control is disabled
+[2024.12.06-19.49.45:030][  0]LogEngine: Initializing Engine...
+[2024.12.06-19.49.45:149][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2024.12.06-19.49.45:335][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.12.06-19.49.45:449][  0]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.12.06-19.49.45:470][  0]LogInit: FAudioDevice initialized.
+[2024.12.06-19.49.45:499][  0]LogDerivedDataCache: Saved boot cache 0.03s 64MB C:/Users/fyrex/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2024.12.06-19.49.45:505][  0]LogInit: Texture streaming: Enabled
+[2024.12.06-19.49.45:648][  0]LogInit: Transaction tracking system initialized
+[2024.12.06-19.49.45:900][  0]BlueprintLog: New page: Editor Load
+[2024.12.06-19.49.46:542][  0]LocalizationService: Info Localization service is disabled
+[2024.12.06-19.49.47:017][  0]LogConsoleResponse:Display: 
+[2024.12.06-19.49.47:113][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.12.06-19.49.47:113][  0]LogCook:Display: Mobile HDR setting 1
+[2024.12.06-19.49.47:767][  0]LogFileCache: Scanning file cache for directory 'F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/unreal-engine-4-blueprints-fundamentals/02/demos/m1/BPFundamentals01/Content/' took 0.01s
+[2024.12.06-19.49.47:767][  0]SourceControl: Info Source control is disabled
+[2024.12.06-19.49.47:768][  0]LightingResults: New page: Lighting Build
+[2024.12.06-19.49.47:798][  0]MapCheck: New page: Map Check
+[2024.12.06-19.49.47:798][  0]LightingResults: New page: Lighting Build
+[2024.12.06-19.49.47:916][  0]LogStaticMesh: Building static mesh Table...
+[2024.12.06-19.49.47:920][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/TAble.Table
+[2024.12.06-19.49.47:920][  0]LogStaticMesh: Building static mesh Picture...
+[2024.12.06-19.49.47:925][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/Picture.Picture
+[2024.12.06-19.49.47:926][  0]LogStaticMesh: Building static mesh Light...
+[2024.12.06-19.49.47:945][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Meshes/Light.Light
+[2024.12.06-19.49.47:947][  0]LogMaterial: Missing cached shader map for material M_FlatBase, compiling. 
+[2024.12.06-19.49.47:973][  0]LogStaticMesh: Building static mesh KeyCard...
+[2024.12.06-19.49.47:975][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/KeyCard.KeyCard
+[2024.12.06-19.49.47:976][  0]LogStaticMesh: Building static mesh DoorFrame...
+[2024.12.06-19.49.47:979][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/DoorFrame.DoorFrame
+[2024.12.06-19.49.47:981][  0]LogTexture:Display: Building textures: Bokeh (BGRA8)
+[2024.12.06-19.49.47:982][  0]LogStaticMesh: Building static mesh Door...
+[2024.12.06-19.49.47:986][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Meshes/Door.Door
+[2024.12.06-19.49.47:987][  0]LogStaticMesh: Building static mesh Couch...
+[2024.12.06-19.49.48:008][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Meshes/Couch.Couch
+[2024.12.06-19.49.48:009][  0]LogStaticMesh: Building static mesh Cactus...
+[2024.12.06-19.49.48:026][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Meshes/Cactus.Cactus
+[2024.12.06-19.49.48:028][  0]LogStaticMesh: Building static mesh ButtonHolder...
+[2024.12.06-19.49.48:036][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Meshes/ButtonHolder.ButtonHolder
+[2024.12.06-19.49.48:037][  0]LogStaticMesh: Building static mesh Button...
+[2024.12.06-19.49.48:044][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Meshes/Button.Button
+[2024.12.06-19.49.48:056][  0]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2024.12.06-19.49.48:131][  0]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2024.12.06-19.49.48:143][  0]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2024.12.06-19.49.48:191][  0]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2024.12.06-19.49.48:199][  0]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2024.12.06-19.49.48:237][  0]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2024.12.06-19.49.48:244][  0]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (BGRA8)
+[2024.12.06-19.49.48:262][  0]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2024.12.06-19.49.48:265][  0]LogMaterial: Missing cached shader map for material M_Light, compiling. 
+[2024.12.06-19.49.48:351][  0]LogAIModule: Creating AISystem for world Main
+[2024.12.06-19.49.48:363][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-19.49.48:363][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-19.49.48:405][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 41.37ms to complete.
+[2024.12.06-19.49.48:405][  0]LogFileHelpers: Loading map 'Main' took 0.638
+[2024.12.06-19.49.48:560][  0]LogCollectionManager: Loaded 0 collections in 0.000757 seconds
+[2024.12.06-19.49.48:655][  0]LogFileCache: Scanning file cache for directory 'F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/unreal-engine-4-blueprints-fundamentals/02/demos/m1/BPFundamentals01/Saved/Collections/' took 0.01s
+[2024.12.06-19.49.48:655][  0]LogFileCache: Scanning file cache for directory 'F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/unreal-engine-4-blueprints-fundamentals/02/demos/m1/BPFundamentals01/Content/Developers/fyrex/Collections/' took 0.01s
+[2024.12.06-19.49.48:655][  0]LogFileCache: Scanning file cache for directory 'F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/unreal-engine-4-blueprints-fundamentals/02/demos/m1/BPFundamentals01/Content/Collections/' took 0.01s
+[2024.12.06-19.49.48:655][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2024.12.06-19.49.48:666][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2190 classes and 428 folders.
+[2024.12.06-19.49.48:712][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2024.12.06-19.49.48:712][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2024.12.06-19.49.48:713][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 13 classes and 0 folders.
+[2024.12.06-19.49.48:793][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.12.06-19.49.48:836][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.12.06-19.49.48:882][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2024.12.06-19.49.48:927][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2024.12.06-19.49.48:960][  0]LogTexture:Display: Building textures: Blueprint_64x (BGRA8)
+[2024.12.06-19.49.48:962][  0]LogTexture:Display: Building textures: icon_Editor_Preferences_General_40x (BGRA8)
+[2024.12.06-19.49.48:964][  0]LogTexture:Display: Building textures: Paper2DSprite_TutorialIcon (BGRA8)
+[2024.12.06-19.49.48:965][  0]LogTexture:Display: Building textures: icon_ShowSkeletalMeshes_40x (BGRA8)
+[2024.12.06-19.49.48:967][  0]LogTexture:Display: Building textures: Landscape (BGRA8)
+[2024.12.06-19.49.48:968][  0]LogTexture:Display: Building textures: Foliage (BGRA8)
+[2024.12.06-19.49.49:044][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2024.12.06-19.49.49:044][  0]LogLoad: (Engine Initialization) Total time: 12.18 seconds
+[2024.12.06-19.49.49:044][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.06 seconds
+[2024.12.06-19.49.49:044][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2024.12.06-19.49.49:384][  0]LogOcInput: OculusInput pre-init called
+[2024.12.06-19.49.49:404][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.12.06-19.49.49:421][  0]LogTexture:Display: Building textures: icon_tab_Levels_40x (BGRA8)
+[2024.12.06-19.49.49:507][  0]LogTexture:Display: Building textures: LevelGrid1DStripes (BGRA8)
+[2024.12.06-19.49.49:569][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:2).
+[2024.12.06-19.49.49:934][  1]LogAssetRegistry: Asset discovery search completed in 7.7667 seconds
+[2024.12.06-19.49.49:934][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2024.12.06-19.49.49:934][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000021 seconds (updated 0 objects)
+[2024.12.06-19.50.28:050][344]LogTemp: Repeting last play command: Selected Viewport
+[2024.12.06-19.50.28:061][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.06-19.50.28:065][344]PIE: New page: PIE session: Main (Dec 6, 2024, 7:50:28 AM)
+[2024.12.06-19.50.28:065][344]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.12.06-19.50.28:072][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006538s)
+[2024.12.06-19.50.28:073][344]LogAIModule: Creating AISystem for world Main
+[2024.12.06-19.50.28:073][344]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2024.12.06-19.50.28:073][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.008065s)
+[2024.12.06-19.50.28:123][344]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.12.06-19.50.28:137][344]LogInit: FAudioDevice initialized.
+[2024.12.06-19.50.28:182][344]LogLoad: Game class is 'GameModeBase'
+[2024.12.06-19.50.28:188][344]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.06-13.50.28
+[2024.12.06-19.50.28:188][344]LogWorld: Bringing up level for play took: 0.001524
+[2024.12.06-19.50.28:228][344]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2024.12.06-19.50.28:229][344]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.139
+[2024.12.06-19.50.48:818][747]LogTexture:Display: Building textures: CameraActor_64x (BGRA8)
+[2024.12.06-19.50.48:822][747]LogTexture:Display: Building textures: BlueprintInterface_64x (BGRA8)
+[2024.12.06-19.50.48:825][747]LogTexture:Display: Building textures: BlueprintMacroLibrary_64x (BGRA8)
+[2024.12.06-19.50.48:905][747]LogTexture:Display: Building textures: IOS (BGRA8)
+[2024.12.06-19.50.48:912][747]LogTexture:Display: Building textures: android_Icon (BGRA8)
+[2024.12.06-19.50.48:915][747]LogTexture:Display: Building textures: Paper2DFlipbook_TutorialIcon (BGRA8)
+[2024.12.06-19.50.52:282][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2024.12.06-19.50.52:924][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2024.12.06-19.56.23:887][171]LogRenderer: Reallocating scene render targets to support 1208x600 NumSamples 1 (Frame:8677).
+[2024.12.06-19.56.37:454][755]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 111 classes and 0 folders.
+[2024.12.06-19.56.37:890][755]LogTexture:Display: Building textures: TilePatine_N (BC5)
+[2024.12.06-19.56.37:912][755]LogTexture:Display: Building textures: TilePatine_D (AutoDXT)
+[2024.12.06-19.56.43:949][405]LogRenderer: Reallocating scene render targets to support 1208x940 NumSamples 1 (Frame:11566).
+[2024.12.06-19.59.58:778][687]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.018
+[2024.12.06-19.59.58:779][687]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Variable] ([1] browsable assets)...
+[2024.12.06-19.59.58:779][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Variable]
