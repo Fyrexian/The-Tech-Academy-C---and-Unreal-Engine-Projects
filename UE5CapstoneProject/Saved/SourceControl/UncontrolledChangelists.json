@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/AK/1GBTQHKONPNR01RRLJHWKG.uasset",
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3S/ZAQ68X8B4SKXBKNNONGQ4M.uasset",
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/RM/KPZ5HLL9VR1CAO0HA44X31.uasset",
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/ScifiWeapons/Audio/Weapons_Rifle2_Punch_04.uasset",
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"F:/Tech-academy/The-Tech-Academy-C---and-Unreal-Engine-Projects/UE5CapstoneProject/Content/Target/SM_Target_SM_Target/GC_SM_Target.uasset"
+			]
+		}
+	]
+}
