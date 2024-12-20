@@ -6222,3 +6222,6 @@ Script Stack (0 frames) :
 [2024.12.20-18.59.22:928][786]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2024.12.20-18.59.22:928][786]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2024.12.20-18.59.22:928][786]LogPakFile: Destroying PakPlatformFile
+[2024.12.20-18.59.26:769][786]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.20-18.59.27:052][786]LogExit: Exiting.
+[2024.12.20-18.59.27:081][786]Log file closed, 12/20/24 12:59:27
